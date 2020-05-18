@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Hacker Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Hari Mothukuri Blog',
+    siteDescription: 'Hari Mothukuri personlal blog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-hacker.now.sh/',
+    siteUrl: 'https://dazzling-boyd-ce8826.netlify.app',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
     author: 'Hari Mothukuri', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    authorDescription: 'A personal blog', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:hari.mothu@gmail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/harimothu`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        url: `https://github.com/harimothu`
       }
     ]
   },

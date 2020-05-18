@@ -10,7 +10,7 @@ const buttonHover = {
 
 export default {
   ...chronoblogTheme,
-  initialColorMode: 'light',
+  initialColorMode: 'dark',
   colors: {
     ...chronoblogTheme.color,
     text: '#111',

@@ -24,6 +24,10 @@ module.exports = {
       {
         icon: `github`,
         url: `https://github.com/harimothu`
+      },
+      {
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/harimothu`
       }
     ]
   },
